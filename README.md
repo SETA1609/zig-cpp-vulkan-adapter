@@ -13,6 +13,7 @@ A standalone **Zig library** that bundles the Vulkan stack — [vulkan-zig](http
 - [`docs/ROADMAP.md`](docs/ROADMAP.md) — versioned milestones (v0.1.0 → v1.0.0)
 - [`docs/sprint.md`](docs/sprint.md) — current milestone plan
 - [`docs/validation-apps.md`](docs/validation-apps.md) — standalone test apps + completion checklist
+- [`docs/dependencies.md`](docs/dependencies.md) — consumed libraries + Zig/C/C++ language split
 - [`docs/cheat_sheet.md`](docs/cheat_sheet.md) — Zig/C/C++ cross-language field guide
 - [`.github/CONTRIBUTING.md`](.github/CONTRIBUTING.md) — how to contribute
 - [`.github/SECURITY.md`](.github/SECURITY.md) — security policy
