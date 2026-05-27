@@ -10,6 +10,7 @@ A standalone **Zig library** that bundles the Vulkan stack — [vulkan-zig](http
 
 - [`docs/vision.md`](docs/vision.md) — what this library is for; the version-coherence guarantee
 - [`docs/mission.md`](docs/mission.md) — concrete commitments (vk re-export, VMA/shaderc bridges, surface creators)
+- [`docs/api.md`](docs/api.md) — intended public API surface (signatures + semantics)
 - [`docs/ROADMAP.md`](docs/ROADMAP.md) — versioned milestones (v0.1.0 → v1.0.0)
 - [`docs/sprint.md`](docs/sprint.md) — current milestone plan
 - [`docs/validation-apps.md`](docs/validation-apps.md) — standalone test apps + completion checklist
