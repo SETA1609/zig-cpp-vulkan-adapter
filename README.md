@@ -7,6 +7,17 @@ A meta-package adapter exposing a **stable Zig API** for the Vulkan stack — Vu
 
 ---
 
+## Documentation
+
+Project docs live in [`docs/`](docs/):
+
+- [`docs/vision.md`](docs/vision.md) — what this adapter is for; the version-coherent Vulkan stack
+- [`docs/mission.md`](docs/mission.md) — concrete commitments (vk re-export, VMA/shaderc bridges, surface creators)
+- [`docs/ROADMAP.md`](docs/ROADMAP.md) — versioned milestones (v0.1.0 → v1.0.0)
+- [`docs/sprint.md`](docs/sprint.md) — active sprint plan
+- [`docs/validation-apps.md`](docs/validation-apps.md) — standalone test apps + completion checklist
+- [`docs/cheat_sheet.md`](docs/cheat_sheet.md) — Zig/C/C++ cross-language field guide
+
 ## What it is
 
 A standalone Zig package that consumers (engines, games, tools) import as a single dependency to get the full Vulkan stack with idiomatic Zig types. Bundled in this single sub-repo:
